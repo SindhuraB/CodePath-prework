@@ -26,4 +26,4 @@ This Hello World App is a pre-work project for CodePath.org's, Mobile App Design
 
 # Final App
 
-https://i.imgur.com/NNVoCaB.gif
+[Imgur](https://i.imgur.com/NNVoCaB.gif)

@@ -22,3 +22,7 @@ This Hello World App is a pre-work project for CodePath.org's, Mobile App Design
   - ✅ a. User can enter text into a text field using the keyboard.
   - ✅ b. User can tap the "Change text string" button to update the label with the text from the text field.
   - ✅ c. If the text field is empty, update label with default text string.
+
+
+# Final App
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/SBqyn1a"><a href="//imgur.com/SBqyn1a"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

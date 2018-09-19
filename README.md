@@ -25,4 +25,5 @@ This Hello World App is a pre-work project for CodePath.org's, Mobile App Design
 
 
 # Final App
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SBqyn1a"><a href="//imgur.com/SBqyn1a"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+[Imgur](https://i.imgur.com/NNVoCaB.gifv)
